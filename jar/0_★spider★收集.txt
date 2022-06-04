@@ -1,0 +1,46 @@
+//【mao.airwooo】https://raw.iqiq.io/airwooo/mt/main/Ma/m1.txt
+//【mao.airwooo】https://github.com/airwooo/mt/tree/main/Ma
+"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
+
+//https://github.com/airwooo/mt/blob/main/Ma/maotv3.txt
+// 00.官方jar
+"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
+
+
+//【mao.fj365】http://fj365.ml/m.json
+"spider": "http://fj365.ml/6/0.txt?raw=true",
+
+//【mao.白侃天下】https://raw.iqiq.io/liu673cn/mao/main/m.json
+//【mao.白侃天下】https://github.com/liu673cn/mao
+//【mao.白侃天下】https://github.com/liu673cn/mao/tree/main/jar
+"spider" : "https://liu673cn.github.io/mao/jar/sprider0521.txt",
+"spider": "https://liu673cn.github.io/mao/jar/custom_spider_t3.jar",
+
+//https://wds.ecsxs.com/224757.txt
+//https://wds.ecsxs.com/224266.json
+//https://raw.iqiq.io/Cyril0563/lanjing_live/main/hd/live_light.json
+"spider": "https://jar1234.coding.net/p/m/d/m/git/raw/master/custom_spider_0330.jar;md5;01a4ac9109a0602124cee4feddc1971e",
+
+
+
+========直播源=======================
+//★★以下直播列表→更新时间2022.4.21★★
+lives: [
+
+//★★直播源redirect提取★★→http://tyzx.weetai.cn/mtv/0330.json
+//★★启用"redirect"只需在【//★启用→】和【备用→(只能多选1)】后分别换行1次即可,自编源将不可用★★
+
+//【★启用→】
+{"group": "redirect","channels": [{"name":"redirect","urls":[
+//【备用1→原0330         】
+"proxy://do=live&type=txt&ext=aHR0cDovL3R5engud2VldGFpLmNuL210di96Yi50eHQ="]}]},
+//【备用2→213013        】"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vQ0NTSENvZGVyL0FQUC9yYXcvbWFzdGVyL2xpdmUudHh0"]}]},
+//【备用3→223942        】"proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="]}]},
+//【备用4→猫群自维护源】"proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1l1YW5Ic2luZy9PbmVDbGlja1J1bkBtYXN0ZXIveHBhdGgvbGl2ZS50eHQ="]}]},
+//【失效X→GG51y0JG   】"proxy://do=live&type=txt&ext=aHR0cHM6Ly9tby14aWFvLmNvZGluZy5uZXQvcC9jL2QvYy9naXQvcmF3L21hc3Rlci9saXZlL2xpdmUudHh0"]}]},
+//【失效X→GG51y0JG   】"proxy://do=live&type=txt&ext=aHR0cHM6Ly9tby14aWFvLmNvZGluZy5uZXQvcC9jL2QvYy9naXQvcmF3L21hc3Rlci9saXZlL010di50eHQ"]}]},
+//【失效X→ci.ci/ekq      】"proxy://do=live&type=txt&ext=aHR0cDovL2ZqMzY1Lm1sLzAvdHYudHh0"]}]},
+//【失效X→                    】"proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYXN0ZWJpbi5jb20vcmF3L0ZBWGN0czBy"]}]},
+
+//★★以下为自编源★★
+
