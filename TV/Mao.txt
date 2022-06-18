@@ -4,6 +4,11 @@
 {
 //"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/sprider0601.txt",
 "spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/sprider0601.txt",
+
+"lives":[{"group": "redirect","channels":[{"name": "redirect","urls":[
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ="
+          ]}]}],
+	  
   "sites": [
     {"name":"爬虫"},
 {"key": "csp_Buka"       ,"name":"真不卡〔P〕【白侃天下】★2022.6.12★","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
@@ -244,19 +249,7 @@
 {"key":"csp_appysv2_金叶影院","name":"金叶影院（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://r.zjj.life:88/mv/api.php/Chengcheng/vod/"},
     {"key":"csp_appysv2_独优影视","name":"独优影视（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"}
   ],
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ="
-          ]
-        }
-      ]
-    }
-  ],
+ 
   "parses": [
     {
       "name": "解析聚合",
