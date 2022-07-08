@@ -4,7 +4,7 @@
 //已去直播AAA
 {"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 //"proxy://do=live&type=txt&ext=aHR0cHM6Ly93cC53YW5nc2hpNTIwLmNvbS9kb3duLnBocC8zZmQ2NjM5ZTUzMWFkNGFhODdlYzA0ZDFhZjk2YTMzNy50eHQ="
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9nY29yZS5qc2RlbGl2ci5uZXQvZ2gvdHZidy9teXR2QG1haW4vdHY4OA=="
+"proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9saWdodC50eHQ="
 ]}]}],
 
 "sites":[{"key":"csp_BBB","name":"🅱️哔哩套餐★2022.6.30★","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
