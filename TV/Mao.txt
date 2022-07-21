@@ -300,7 +300,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mcmVlZC55dWFuaHNpbmcuY2YvdHYvbGl2ZS50eHQ="
+                        "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
                     ]
                 }
             ]
