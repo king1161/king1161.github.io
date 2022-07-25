@@ -1,6 +1,6 @@
 //https://raw.githubusercontent.com/liu673cn/biubiu/main/bb521.txt
 //【Mao.白侃天下】https://github.com/liu673cn/biubiu
-//★2022.5.27★
+//★ 2022.5.27★
 {"zhuyejiekou": [
 //{"name":"   ---<【白侃天下】★2022.5.27★>---","url":"http://123.250idc.com/mogai_api.php/v1.vod"},
 {"name":"001-独播社---<白侃★2022.5.27★>---","url":"http://35ys.cc/api.php/v1.vod"},
