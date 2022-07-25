@@ -1,6 +1,6 @@
 //高清测试源网络接口 http://gg.gg/11le5l
 //→https://image.api.losfer.cn/down.php/747843c8ea9656791e8d3ae1055d5de2.json
-//【ddbgh】★2022.6.30★
+//【ddbgh】★2022.06.30★
 {
     "sites": [
         {
