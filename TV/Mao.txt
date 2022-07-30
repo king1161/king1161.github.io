@@ -1,10 +1,10 @@
-//2022.7.30
+//2022.07.30
 //https://gitea.com/dxa/1/src/branch/main/1.json
 {
     "sites": [     
         {
-            "key": "csp_77★2022.7.30★",
-            "name": "酷云七七(爬虫)",
+            "key": "csp_77",
+            "name": "酷云七七(爬虫)★2022.7.30★",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
