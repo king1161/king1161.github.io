@@ -1,10 +1,11 @@
 //【2022.8.16】
+//→更换json源位置适配低端TV安卓
 //大神ddbgh定制源→https://0a.fit/0816nzy11
-{"spider": "https://share.nite07.com/api/v3/file/source/15568/gg0820.jar?sign=OLVJi2eO0zEVLWUdGqBle2-X0elW9qLWOfYW_RwpLfU%3D%3A0",
+{"spider": "https://king1161.github.io/jar/gg0820.jar",
  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
- "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8xMzUxOC9nZ2xpdmUudHh0P3NpZ249ZFBCcjhyME5RZHlJdFM4eUtCSFRodGN4ckNHaTZPOGtERnlSMkFNekc4ayUzRCUzQTA="]}]}],
- "sites": [{"key":"csp_BBB","name":"TVBOX+学习课堂视频教程【2022.8.16】","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://share.nite07.com/api/v3/file/source/13488/bili1.json?sign=l4DXFptasp8rrLJ1sCm68KX2BcAY8ALZTCrDEuA6BIU%3D%3A0"},
-	    {"key": "演唱会","name": "音乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/13498/%E9%9F%B3%E4%B9%900728.json?sign=nw2Dm2cw56XIw5E_HywESTF7a7zHbV8LAi0UP8Xodrk%3D%3A0"},
+ "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vZHhhLzEvcmF3L2JyYW5jaC9tYWluL3R2bGl2ZS50eHQ="]}]}],
+ "sites": [{"key":"csp_BBB","name":"TVBOX+学习课堂视频教程【2022.8.16】","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://king1161.github.io/json/bili1.json"},
+	    {"key": "演唱会","name": "音乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://king1161.github.io/json/音乐0728.json"},
 		{
 			"key": "csp_77",
 			"name": "酷云",
@@ -357,7 +358,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://share.nite07.com/api/v3/file/source/13923/88kanqiu0813.json?sign=DBngu4EesnJIjwewSCVCT7omtC7-H0YTrs-lzBEUsOU%3D%3A0"
+			"ext": "https://king1161.github.io/json/88kanqiu0813.json"
 		}, 
 
 		{
@@ -368,7 +369,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://share.nite07.com/api/v3/file/source/13491/dj.json?sign=sAViLxGOW8BB9mLAGEugYsGl58HyhWmsKzpoH6wnOdA%3D%3A0"
+			"ext": "https://king1161.github.io/json/dj.json"
 		}, {
 			"key": "csp_biubiu_斗鱼",
 			"name": "斗鱼",
