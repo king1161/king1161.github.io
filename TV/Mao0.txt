@@ -7,7 +7,7 @@
  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
  "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vZHhhLzEvcmF3L2JyYW5jaC9tYWluL3R2bGl2ZS50eHQ="]}]}],
  "sites": [{"key":"csp_BBB","name":"TVBOX+学习课堂视频教程【2022.8.29】","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://king1161.github.io/json/bili1.json"},
-	    {"key": "演唱会","name": "音乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://king1161.github.io/json/音乐0728.json","jar":"https://king1161.github.io/jar/0825bilijar.jpg"},
+	    {"key": "演唱会","name": "音乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://king1161.github.io/json/音乐0728.json","jar":"https://king1161.github.io/jar/0825bilijar.jpg?sign=4FEigfQGmVR61Rxt-2eVZMrnWmPrw_Q07yYixbfQKZ0%3D%3A0;md5;c5c337bb2793598e9aa5953898fbb087"},
 		{
 			"key": "csp_77",
 			"name": "酷云",
