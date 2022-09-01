@@ -1,7 +1,7 @@
 //【2022.8.31】
 //→更换json源位置适配低端TV安卓
 //大神ddbgh定制源→https://0a.fit/0816nzy11
-{"spider": "https://king1161.github.io/jar/暴力缝合ggtv.jar",
+{"spider": "https://king1161.github.io/jar/暴力缝合ggtvbili.jar",
  "wallpaper":"https://api.yimian.xyz/img?type=wallpaper",
  //"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
  "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vZHhhLzEvcmF3L2JyYW5jaC9tYWluL3R2bGl2ZS50eHQ="]}]}],
