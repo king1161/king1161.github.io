@@ -1,11 +1,11 @@
-//【2022.8.29】
+//【2022.8.31】
 //→更换json源位置适配低端TV安卓
 //大神ddbgh定制源→https://0a.fit/0816nzy11
-{"spider": "https://king1161.github.io/jar/暴力缝合ggtv+bili.jar",
+{"spider": "https://king1161.github.io/jar/暴力缝合ggtv.jar",
  "wallpaper":"https://api.yimian.xyz/img?type=wallpaper",
  //"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
  "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vZHhhLzEvcmF3L2JyYW5jaC9tYWluL3R2bGl2ZS50eHQ="]}]}],
- "sites": [{"key":"csp_BBB","name":"TVBOX+学习课堂【2022.8.29】","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://king1161.github.io/XB/bili1.json","jar":"https://king1161.github.io/XB/0825bili.jar"},
+ "sites": [{"key":"csp_BBB","name":"TVBOX+学习课堂【2022.8.31】","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://king1161.github.io/XB/bili1.json","jar":"https://king1161.github.io/XB/0825bili.jar"},
 	    {"key": "演唱会","name": "音乐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://king1161.github.io/XB/音乐0728.json","jar":"https://king1161.github.io/XB/0825bili.jar"},
 		{"key":"Kunyu77","name":"酷云831","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://king1161.github.io/XB/0831-77.jar"},
 		 {
