@@ -1,22 +1,14 @@
 //【2022.8.29】
 //→更换json源位置适配低端TV安卓
 //大神ddbgh定制源→https://0a.fit/0816nzy11
-{
-"spider": "https://king1161.github.io/jar/gg0820.jar",
-//"spider": "https://king1161.github.io/jar/暴力缝合ggtv+bili.jar",
- "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+{"spider": "https://king1161.github.io/jar/暴力缝合ggtv+bili.jar",
+ "wallpaper":"https://api.yimian.xyz/img?type=wallpaper",
+ //"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
  "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vZHhhLzEvcmF3L2JyYW5jaC9tYWluL3R2bGl2ZS50eHQ="]}]}],
- "sites": [{"key":"csp_BBB","name":"TVBOX+学习课堂视频教程【2022.8.29】","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://king1161.github.io/json/bili1.json"},
-	    {"key": "演唱会","name": "音乐X","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://king1161.github.io/json/音乐0728.json"},
-		{
-			"key": "csp_77",
-			"name": "酷云",
-			"type": 3,
-			"api": "csp_Kunyu77",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, {
+ "sites": [{"key":"csp_BBB","name":"TVBOX+学习课堂【2022.8.29】","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://king1161.github.io/XB/bili1.json","jar":"https://king1161.github.io/XB/0825bili.jar"},
+	    {"key": "演唱会","name": "音乐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://king1161.github.io/XB/音乐0728.json","jar":"https://king1161.github.io/XB/0825bili.jar"},
+		{"key":"Kunyu77","name":"酷云831","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://king1161.github.io/XB/0831-77.jar"},
+		 {
 			"key": "小苹果",
 			"name": "苹果",
 			"type": 3,
@@ -94,16 +86,8 @@
 			"ext": ""
 		},
 		{"key":"csp_293","name":"293","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-		{
-			"key": "Gitcafe",
-			"name": "纸条",
-			"type": 3,
-			"api": "csp_GitCafe",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-		}, {
+{"key":"csp_Gitcafe","name":"纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"7bb5b24ca3274ad781a6071082e9eebd","jar":"https://king1161.github.io/XB/0825qiaoj.jar"},
+{
 			"key": "csp_DiDuan",
 			"name": "低端",
 			"type": 3,
@@ -360,7 +344,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://king1161.github.io/json/88kanqiu0813.json"
+			"ext": "https://king1161.github.io/XB/88kanqiu0813.json"
 		}, 
 
 		{
@@ -371,7 +355,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://king1161.github.io/json/dj.json"
+			"ext": "https://king1161.github.io/XB/dj.json"
 		}, {
 			"key": "csp_biubiu_斗鱼",
 			"name": "斗鱼",
@@ -651,34 +635,11 @@
 		{"key":"小学课堂","name":"小学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/小学课堂.php"},
 		{"key":"初中课堂","name":"初中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/初中课堂.php"},
 		{"key":"高中教育","name":"高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/高中课堂.php"},
-		{
-			"key": "AliPS",
-			"name": "盘搜",
-			"type": 3,
-			"api": "csp_AliPanSou",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-		}, {
-			"key": "zhaozy",
-			"name": "找源",
-			"type": 3,
-			"api": "csp_FindZY",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-		}, {
-			"key": "push_agent",
-			"name": "推送",
-			"type": 3,
-			"api": "csp_PushAgent",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-		}
+{"key":"csp_AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"7bb5b24ca3274ad781a6071082e9eebd","jar":"https://king1161.github.io/XB/0822qg.jar"},
+{"key":"csp_Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"7bb5b24ca3274ad781a6071082e9eebd","jar":"https://king1161.github.io/XB/0822qg.jar"},
+{"key":"Zhaozy","name":"找源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"7bb5b24ca3274ad781a6071082e9eebd","jar":"https://king1161.github.io/XB/0822qg.jar"},
+{"key":"push_agent","name":"推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://king1161.github.io/XB/0822qg.jar"}
+
 	],
 	"parses": [{
 		"name": "解析聚合",
