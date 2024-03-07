@@ -1,0 +1,28 @@
+//仓库短网址[惊.选]→https://0a.fit/仓库K
+//             [多多仓] →https://0a.fit/仓库0
+//                [欧歌] →https://0a.fit/仓库1
+//          [★娱乐★]→https://0a.fit/仓库AAA
+//           [备]→https://gg.gg/cangkuK
+//-------------------------------------
+//--------------仓库收集--------------
+//欧歌→http://tv.nxog.top/
+//风向标导航→http://aduo.eu.org/
+//多多应用[采集接口]→https://www.yydsys.top/box/api/
+//饭太硬→https://cdn.饭太硬.ga/w/
+//agit-dlee2008仓库[备]→https://agit.ai/dlee2008/66666/raw/branch/master/update_yuan.txt
+//-------------------------------------
+
+{
+  "storeHouse": [ 
+
+{"sourceName": "💎惊.选[推荐]💎","sourceUrl": "https://king1161.github.io/TV/仓源000.txt"},
+{"sourceName":"💚纯仓[备]💚","sourceUrl":"https://king1161.github.io/TV/仓源111.txt"},
+{"sourceName":"🌸直播地址库[备]🌸","sourceUrl":"https://king1161.github.io/TV/直播仓库.txt"},
+
+{"sourceName":"---↓.配置提示.↓-*-","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"},
+{"sourceName":"1.先任选上面一个_______*-","sourceUrl":"http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"},
+{"sourceName":"2.再在【线路】里任选一个","sourceUrl":"2_"},
+{"sourceName":"3.可在【主页】里切换站点","sourceUrl":"3_"},
+{"sourceName":"4.播放卡慢可换搜索源........","sourceUrl":"4_"}
+
+]}
