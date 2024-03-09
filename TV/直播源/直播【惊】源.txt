@@ -9,7 +9,7 @@
 
 //直播→【惊】源
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
-"proxy://do=live&type=txt&ext=https://king1161.neocities.org/0/zhibo/直播.txt"
+"proxy://do=live&type=txt&ext=https://king1161.github.io/直播源/直播.txt"
 ]}]}],
 
 
