@@ -24,6 +24,6 @@
 {"sourceName":"2.再在【线路】里任选一个","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/duo.json"},
 {"sourceName":"3.可在【主页】里切换站点","sourceUrl":"3_"},
 {"sourceName":"4.播放卡慢可换搜索源.........","sourceUrl":"4_"},
-{"sourceName":"---github→2024.3.15---","sourceUrl":"clan://localhost/TVBox/仓源AAA.txt"}
+{"sourceName":"---github→2024.3.15--A-","sourceUrl":"clan://localhost/TVBox/仓源AAA.txt"}
 
 ]}
