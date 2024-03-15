@@ -21,8 +21,9 @@
 
 {"sourceName":"---↓.配置提示.↓-*-","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"},
 {"sourceName":"1.先任选上面一个_______*-","sourceUrl":"http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"},
-{"sourceName":"2.再在【线路】里任选一个","sourceUrl":"2_"},
-{"sourceName":"3.可在【主页】里切换站点A","sourceUrl":"clan://localhost/TVBox/仓库AAA.txt"},
-{"sourceName":"4.播放卡慢可换搜索源.......A","sourceUrl":"clan://localhost/TVBox/仓源AAA.txt"}
+{"sourceName":"2.再在【线路】里任选一个","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/duo.json"},
+{"sourceName":"3.可在【主页】里切换站点","sourceUrl":"3_"},
+{"sourceName":"4.播放卡慢可换搜索源.........","sourceUrl":"4_"},
+{"sourceName":"---github→2024.3.15---","sourceUrl":"clan://localhost/TVBox/仓源AAA.txt"}
 
 ]}
