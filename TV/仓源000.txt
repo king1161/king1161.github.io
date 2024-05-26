@@ -17,32 +17,17 @@
 {name:'💎【荷城茶秀】[荐]💎',url:'http://rihou.cc:88/荷城茶秀'},
 {name:'💎【肥猫线路】💎',url:'http://我不是.肥猫.live/接口禁止贩卖'},
 {name:'💎【肥猫[荐]💎',url:'http://xn--yety82d.love/',time:''},
-{name:'💎【巧技线路】[荐]💎',url:'http://pandown.pro/tvbox/tvbox.json'},
-
-{name:'💎【小米线路】[荐]💎',url:'http://xhww.fun:63/小米/DEMO.json'},
+{name:'🚀【巧技线路】',url:'http://pandown.pro/tvbox/tvbox.json'},
+{name:'🚀【俊佬线路】',url:'http://home.jundie.top:81/top98.json'},
+{name:'🚀【小米线路】',url:'http://xhww.fun:63/小米/DEMO.json'},
 {name:'🤲【香雅情-本地视频】🤲',url:'https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json',time:''},
 
-//{name:'💎【运输车】[荐]💎',url:'https://tvkj.top/DC/ysc/tvkj/svip.json'},
-//{name:'🤲【影视精选专线】[荐]🤲',url:'http://dlj.bz/0230MI',time:'主要爬虫和t4搜索'},
-/{name:'🤲【图图.relax】agit🤲',url:'https://agit.ai/relax/adcc/raw/branch/master/tvbox.json',time:''},
-//{name:'🤲【终南干货群】agit🤲',url:'https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json',time:'维护→南风'},
-//{name:'🤲【学习园地】agit🤲',url:'https://agit.ai/n/b/raw/branch/a/b/c.json',time:'电影电视搜索'},
-
+//以下已停用(待修复)
 //{name:'✌️惊①网友源A[备]✌️',url:'https://gg.gg/TVboxWA',time:'引网友直源'},
 //{name:'✌️惊②网友源B[备]✌️',url:'https://gg.gg/TVboxWB',time:'引网友直源'},
 //{name:'✌️惊③自建源A[备]✌️',url:'https://king1161.github.io/TV/Mao.txt',time:'自建备用源.小马线路'},
 //{name:'✌️惊④自建源B[备]✌️',url:'https://king1161.github.io/TV/Mao0.txt',time:'自建备用源.小雅js'},
 //{name:'✌️惊⑤老刘备线[备]✌️',url:'https://king1161.github.io/TV/TVbox.txt',time:'自建备用源.老刘备'},
-
-//{name:'💎【easybox线路】[荐]💎',url:'https://app.easybox.vip/dy'},
-//{name:'🏡【多多家庭】[已失效]🏡',url:'http://yydsys.top/duo',time:'维护→站长大聪明'},
-//{name:'🏡【多多家庭】[已失效-阿里]🏡',url:'http://yydsys.top/duo/ali',time:'维护→站长大聪明'},
-//{name:'🏡【多多家庭】[已失效]🏡',url:'http://cdn.yydsys.top/duo',time:'维护→站长大聪明'},
-//{name:'💎【吾爱学堂】[已失效]💎',url:'http://52bsj.vip:98/wuai'},
-//{name:'💎【喵TV】[已失效]💎',url:'http://miaotvs.cn/meow'},
-//{name:'💎【肥猫线路】[已失效]💎',url:'http://肥猫.love'},
-//{name:'💎【刚刚线路】[已失效]💎',url:'http://刚刚.live/猫',time:'在线更新'},
-//{name:'🤲【云星日记】[已失效]🤲',url:'http://itvbox.cc/tvbox/云星日记/1.m3u8'},
 
 {name:'🔔如搜索不到或播放缓慢可换线路🔔',url:'_1',time:''},
 {name:'🔔以上线路会定期更新修复🔔',url:'_2',time:''},

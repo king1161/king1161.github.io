@@ -4,37 +4,23 @@
 
 {"urls": [
 
-{name:'🔔点击选择下方线路',url:'http://aduo.eu.org/duo/v.json'},
-{name:'🏡应用多多家庭版',url:'https://yydsys.top/duo/v.json'},
+{name:'🔔↓遇失效，请换线路↓🔔',url:'https://king1161.github.io/TV/备线.txt',time:'自建备用源'},
+{name:'💎D佬魔改线路',url:'https://download.kstore.space/download/2883/nzk/nzk0722.json'},
+{name:'💎道长线路',url:'https://pastebin.com/raw/5NHaxyGR'},
+{name:'💎运输线路',url:'https://weixine.net/ysc.json'},
+{name:'💎开心主线',url:'http://rihou.vip:55/天天开心'},
 
-{name:'💎【神器】💎',url:'https://神器每日推送.tk/pz.json'},
-{name:'💎【神器每日推送】💎',url:'https://xn--m7r412advb92j21st65a.tk/pz.json'},
-{name:'💎影探4K',url:'http://www.lyyytv.cn/yt/yt.json'},
-{name:'💎俊佬线路',url:'http://home.jundie.top:81/top98.json'},
-{name:'💎唐三线路',url:'https://hutool.ml/tang'},
-{name:'💎【公益线路】💎',url:'http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt'},
-{name:'💎【太阳线路】💎',url:'http://111.67.196.181/mtv/meow.txt',time:'太阳线路'},
-{name:'💎【BYYDS线路】💎',url:'http://byyds.top/w.txt',time:'电影电视搜索'},
+{name:'🚀dxawi[github]',url:'https://dxawi.github.io/0/0.json'},
+{name:'🚀dxawi0线路[github]',url:'http://dxawi.github.io/0/0.json'},
 
-{name:'🤲霜辉月明py',url:'https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json'},
-{name:'🤲dxawi0线路',url:'http://dxawi.github.io/0/0.json'},
-{name:'🤲dxawi1线路',url:'http://dxawi.github.io/0/1.json'},
-
-{name:'🤲甜蜜线路',url:'https://raw.fastgit.org/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json'},
-{name:'🤲一影视线路',url:'https://raw.fastgit.org/tv-player/tvbox-line/main/tv/fj.json'},
-{name:'🤲二哈线路',url:'https://raw.fastgit.org/2hacc/TVBox/main/tvbox'},
-{name:'🤲chengxueli线路',url:'https://raw.fastgit.org/chengxueli818913/TVBox/main/sc.json'},
-
-{name:'🤜【dxawi】github🤜',url:'https://dxawi.github.io/0/0.json',time:'加载慢需耐心等待'},
-{name:'🤜abc线路.agit🤜',url:'https://agit.ai/n/b/raw/branch/a/b/c.json'},
-{name:'🤜南风线路.agit🤜',url:'https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json'},
-{name:'🤜小苹果线路.agit🤜',url:'https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json'},
-{name:'🤜【lli8779182】agit🤜',url:'https://agit.ai/lli8779182/9/raw/branch/master/9'},
-{name:'🤜【FongMi】本地文件🤜',url:'https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json'},
-{name:'🤜【FongMi】🤜',url:'https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json'},
+{name:'🐹唐三线路',url:'https://pan.shangui.cc/f/Xg5sd/tangs.json'},
+{name:'🐹云星日记',url:'http://itvbox.cc/tvbox/云星日记/1.m3u8'},
+{name:'🐹教育专线',url:'https://152.32.170.60/895322156/Q/raw/branch/master/TV/jy.txt'},
+{name:'🐹影探4K[音乐.学习]',url:'http://www.lyyytv.cn/yt/yt.json'},
 
 //以下已停用(待修复)
-{name:'🤓【源享家线路】[停用]🤓',url:'https://源享家.ml/45127',time:'在线更新'},
-{name:'---github→2024.3.15---',url:'_3',time:''}
+
+
+{name:'---github→2024.5.26---',url:'_3',time:''}
 
 ]}
