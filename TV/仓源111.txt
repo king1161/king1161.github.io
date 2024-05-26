@@ -10,16 +10,14 @@
 {name:'💎运输线路',url:'https://weixine.net/ysc.json'},
 {name:'💎开心主线',url:'http://rihou.vip:55/天天开心'},
 
-{name:'🚀dxawi[github]',url:'https://dxawi.github.io/0/0.json'},
+{name:'🚀好人线路',url:'https://xhdwc.tk/0'},
 {name:'🚀dxawi0线路[github]',url:'http://dxawi.github.io/0/0.json'},
-
 {name:'🐹唐三线路',url:'https://pan.shangui.cc/f/Xg5sd/tangs.json'},
-{name:'🐹云星日记',url:'http://itvbox.cc/tvbox/云星日记/1.m3u8'},
-{name:'🐹教育专线',url:'https://152.32.170.60/895322156/Q/raw/branch/master/TV/jy.txt'},
 {name:'🐹影探4K[音乐.学习]',url:'http://www.lyyytv.cn/yt/yt.json'},
 
 //以下已停用(待修复)
-
+//{name:'🐹云星日记',url:'http://itvbox.cc/tvbox/云星日记/1.m3u8'},
+//{name:'🐹教育专线',url:'https://152.32.170.60/895322156/Q/raw/branch/master/TV/jy.txt'},
 
 {name:'---github→2024.5.26---',url:'_3',time:''}
 
