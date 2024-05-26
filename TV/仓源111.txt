@@ -6,7 +6,7 @@
 
 {name:'🔔↓遇失效，请换线路↓🔔',url:'https://king1161.github.io/TV/备线.txt',time:'自建备用源'},
 {name:'🎹吾爱线路',url:'http://530.my3v.work/tvbox/微风吾爱/微风吾爱.json'},
-{name:'💎吾爱线路【讴歌】',url:'http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0'},
+{name:'💎吾爱电视【讴歌】',url:'http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0'},
 {name:'💎D佬魔改线路',url:'https://download.kstore.space/download/2883/nzk/nzk0722.json'},
 {name:'💎道长线路',url:'https://pastebin.com/raw/5NHaxyGR'},
 {name:'💎运输线路',url:'https://weixine.net/ysc.json'},
@@ -14,6 +14,7 @@
 
 {name:'🚀好人线路',url:'https://xhdwc.tk/0'},
 {name:'🚀dxawi0线路[github]',url:'http://dxawi.github.io/0/0.json'},
+{name:'🐸少儿专线',url:'http://530.my3v.work/tvbox/微风教育/微风教育.json'},
 {name:'🐹唐三线路',url:'https://pan.shangui.cc/f/Xg5sd/tangs.json'},
 {name:'🐹影探4K[音乐.学习]',url:'http://www.lyyytv.cn/yt/yt.json'},
 
