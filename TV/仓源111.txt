@@ -5,7 +5,7 @@
 {"urls": [
 
 {name:'🔔↓遇失效，请换线路↓🔔',url:'https://king1161.github.io/TV/备线.txt',time:'自建备用源'},
-{name:'🎹吾爱线路',url:'http://530.my3v.work/tvbox/微风吾爱/微风吾爱.json'},
+{name:'🎹吾爱线路【微风】',url:'http://530.my3v.work/tvbox/微风吾爱/微风吾爱.json'},
 {name:'💎吾爱电视【讴歌】',url:'http://52pan.top:81/api/v3/file/get/174964/吾爱评测.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0'},
 {name:'💎D佬魔改线路',url:'https://download.kstore.space/download/2883/nzk/nzk0722.json'},
 {name:'💎道长线路',url:'https://pastebin.com/raw/5NHaxyGR'},
