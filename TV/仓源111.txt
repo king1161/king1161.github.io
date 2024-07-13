@@ -13,6 +13,7 @@
 {name:'💎开心主线',url:'http://rihou.vip:55/天天开心'},
 {name:'💎摸鱼儿',url:'http://我不是.摸鱼儿.top'},
 {name:'💎MeowTV',url:'http://meowtv.top/tv'},
+{name:'💎【OK线路→扫码激活】💎',url:'http://ok321.top/tv'},
 
 {name:'🚀好人线路',url:'https://xhdwc.tk/0'},
 {name:'🚀dxawi0线路[github]',url:'http://dxawi.github.io/0/0.json'},
