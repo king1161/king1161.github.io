@@ -12,14 +12,14 @@
 {name:'💎【饭太硬线路】[荐]💎',url:'http://www.饭太硬.com/tv'},
 {name:'💎【肥猫】[荐]💎',url:'http://肥猫.com'},
 {name:'💎【肥猫】[备]💎',url:'http://肥猫.live'},
+{name:'💎【王二小】',url:'http://tvbox.xn--4kq62z5rby2qupq9ub.top/'},
+{name:'💎【运输车】',url:'https://weixine.net/ysc.json'},
 {name:'💎【摸鱼儿】',url:'http://我不是.摸鱼儿.top'},
 {name:'💎【摸鱼儿.清清】',url:'http://清清.摸鱼儿.top'},
-{name:'💎【小盒子】',url:'http://xhztv.top/xhz'},
 {name:'💎【小盒子4K】',url:'http://xhztv.top/4k.json'},
 {name:'💎【毒盒】',url:'https://毒盒.com/tv'},
 {name:'🚀【巧技线路】',url:'http://pandown.pro/tvbox/tvbox.json'},
 {name:'🚀【俊佬线路】',url:'http://home.jundie.top:81/top98.json'},
-{name:'🚀【小米线路】',url:'http://xhww.fun:63/小米/DEMO.json'},
 {name:'🤲【香雅情-本地视频】🤲',url:'https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json',time:''},
 
 //以下已停用(待修复)
@@ -32,7 +32,7 @@
 
 {name:'🔔如搜索不到或播放缓慢可换线路🔔',url:'_1',time:''},
 {name:'🔔以上线路会定期更新修复🔔',url:'_2',time:''},
-{name:'---github→2024.8.11---',url:'_3',time:''}
+{name:'---github→2024.12.22---',url:'_3',time:''}
 
         ]
 }
