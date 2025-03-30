@@ -20,13 +20,13 @@
 {"sourceName": "💎惊.本地[推荐]💎","sourceUrl": "clan://localhost/tvboxTW/本地仓.txt"},
 {"sourceName": "💎惊.网选[推荐]💎","sourceUrl": "https://king1161.github.io/TV/仓源000.txt"},
 {"sourceName":"💚纯仓[备]💚","sourceUrl":"https://king1161.github.io/TV/仓源111.txt"},
-{"sourceName":"🌸直播地址库[备]🌸","sourceUrl":"https://king1161.github.io/TV/直播仓库.txt"},
+{"sourceName":"🌸天微在线库[网]🌸","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
 
 {"sourceName":"---↓.配置提示.↓-*-","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"},
 {"sourceName":"1.先任选上面一个______-*-","sourceUrl":"http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"},
 {"sourceName":"2.再在【线路】里任选一个","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/duo.json"},
 {"sourceName":"3.可在【主页】里切换站点","sourceUrl":"https://d.kstore.space/download/2904/236.txt"},
 {"sourceName":"4.播放卡慢可换搜索源........","sourceUrl":"https://download.kstore.space/download/2883/10-13.json"},
-{"sourceName":"----github→2024.12.22--*A*-","sourceUrl":"clan://localhost/TVBox/仓源AAA.txt"}
+{"sourceName":"----github→2025.03.30--*A*-","sourceUrl":"clan://localhost/TVBox/仓源AAA.txt"}
 
 ]}
