@@ -8,8 +8,12 @@
 //------https://0a.fit/仓库K-----
 //------https://gg.gg/cangkuK-----
 {name:'🔔↓遇失效，请换线路↓🔔',url:'https://king1161.github.io/TV/备线.txt',time:'自建备用源'},
+{name:'🏡【欧歌app】[荐]🏡',url:'https://xn--anna-wn6lw489o.v.nxog.top/m'},
 {name:'🏡【欧歌家庭】[荐]🏡',url:'http://tv.nxog.top/m/111.php?ou=公众号欧歌'},
-{name:'🏡【天微影线】[荐]🏡',url:'https://7337.kstore.space/twvip/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json'},
+{name:'🏡【天微影线】[荐]🏡',url:'https://7337.kstore.space/kjtv/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json'},
+{name:'🏡【OK321.TV】[荐]🏡',url:'http://ok321.top/tv'},
+{name:'🏡【OK321.ok】[荐]🏡',url:'http://ok321.top/ok'},
+{name:'🏡【宝盒】[荐]🏡',url:'http://宝盒接口.top'},
 {name:'🏡【PG线路】[荐]🏡',url:'http://www.fish2018.us.kg/p/jsm.json'},
 {name:'💎【饭太硬线路】[荐]💎',url:'http://www.饭太硬.com/tv'},
 {name:'💎【肥猫】[荐]💎',url:'http://肥猫.com'},
@@ -34,7 +38,7 @@
 
 {name:'🔔如搜索不到或播放缓慢可换线路🔔',url:'_1',time:''},
 {name:'🔔以上线路会定期更新修复🔔',url:'_2',time:''},
-{name:'---github→2025.03.30---',url:'_3',time:''}
+{name:'---github→2025.10.04---',url:'_3',time:''}
 
         ]
 }
