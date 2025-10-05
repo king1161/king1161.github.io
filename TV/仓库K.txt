@@ -18,8 +18,8 @@
 {
   "storeHouse": [ 
 
-{"sourceName":"🌸天微在线库[网更]🌸","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
-{"sourceName":"🌸小苹果[网更]🌸","sourceUrl":"http://tvbox.my"},
+{"sourceName":"🌸天微在线库🌸","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
+{"sourceName":"🌸小苹果🌸","sourceUrl":"http://tvbox.my"},
 {"sourceName":"💎惊.网选[推荐]💎","sourceUrl": "https://king1161.github.io/TV/仓源000.txt"},
 {"sourceName":"💎惊.纯仓[备用]💎","sourceUrl":"https://king1161.github.io/TV/仓源111.txt"},
 {"sourceName":"💚惊.本地[备用]💚","sourceUrl": "clan://localhost/tvboxTW/本地仓.txt"},
