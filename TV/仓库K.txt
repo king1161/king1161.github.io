@@ -5,6 +5,7 @@
 //           [备]→https://gg.gg/cangkuK
 //-------------------------------------
 //--------------仓库收集--------------
+//【拾光趣乐屋多仓】http://xmbjm.fh4u.org/ck.txt
 //【ddbgh大神多仓】→多仓合集→http://rihou.cc:555/ggggnzk
 //欧歌→http://tv.nxog.top/
 //饭太硬→https://www.饭太硬.com/
@@ -18,15 +19,16 @@
   "storeHouse": [ 
 
 {"sourceName":"🌸天微在线库[网更]🌸","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
+{"sourceName":"🌸小苹果[网更]🌸","sourceUrl":"http://tvbox.my"},
 {"sourceName":"💎惊.网选[推荐]💎","sourceUrl": "https://king1161.github.io/TV/仓源000.txt"},
-{"sourceName":"💚惊.纯仓[备用]💚","sourceUrl":"https://king1161.github.io/TV/仓源111.txt"},
-{"sourceName":"💎惊.本地[备用]💎","sourceUrl": "clan://localhost/tvboxTW/本地仓.txt"},
+{"sourceName":"💎惊.纯仓[备用]💎","sourceUrl":"https://king1161.github.io/TV/仓源111.txt"},
+{"sourceName":"💚惊.本地[备用]💚","sourceUrl": "clan://localhost/tvboxTW/本地仓.txt"},
 
-{"sourceName":"---↓.配置提示.↓---","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"},
-{"sourceName":"1.先任选上面一个______---","sourceUrl":"http://m.nxog.top/nxog/ou1.php?url=http://m.nxog.top&b=欧歌"},
+{"sourceName":"---↓.配置提示.↓---","sourceUrl":"http://z.qiqiv.cn/123"},
+{"sourceName":"1.先任选上面一个______---","sourceUrl":"http://150.158.112.123/dc.json"},
 {"sourceName":"2.再在【线路】里任选一个","sourceUrl":"http://w.nxog.top/nxog/ou1.php?url=http://w.nxog.top&xl=2&b=欧歌"},
-{"sourceName":"3.可在【主页】里切换站点","sourceUrl":"https://tvkj.top/DC.txt"},
+{"sourceName":"3.可在【主页】里切换站点","sourceUrl":"http://mdxgh.top:5555/dc.json"},
 {"sourceName":"4.播放卡慢可换搜索源........","sourceUrl":"http://liucn.cc/box/d2.txt"},
-{"sourceName":"---github→2025.10.4---","sourceUrl":"http://liucn.cc/box/dc.txt"}
+{"sourceName":"---github→2025.10.5---","sourceUrl":"http://liucn.cc/box/dc.txt"}
 
 ]}
