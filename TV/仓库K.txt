@@ -24,8 +24,10 @@
 
 {"sourceName":"💎惊.github[推荐]💎","sourceUrl": "https://king1161.github.io/TV/仓源000.txt"},
 {"sourceName":"💎惊.neocities[推荐]💎","sourceUrl": "https://king1161.neocities.org/0/仓源000.txt"},
-{"sourceName":"💎惊.纯仓[备用]💎","sourceUrl":"https://king1161.github.io/TV/仓源111.txt"},
-{"sourceName":"💚惊.本地[备用]💚","sourceUrl": "clan://localhost/tvboxTW/本地仓.txt"},
+
+{"sourceName":"💚讴歌.本地仓[在线更]💚","sourceUrl": "clan://localhost/TVBOX/DC.txt"},
+{"sourceName":"💚惊.本地仓[U更]💚","sourceUrl": "clan://localhost/TVBOX/本地仓.txt"},
+//{"sourceName":"💎惊.纯仓[备用]💎","sourceUrl":"https://king1161.github.io/TV/仓源111.txt"},
 
 {"sourceName":"---↓.配置提示.↓---","sourceUrl":"http://z.qiqiv.cn/123"},
 {"sourceName":"1.先任选上面一个______---","sourceUrl":"http://xmbjm.fh4u.org/ck.txt"},
