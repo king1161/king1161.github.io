@@ -22,12 +22,13 @@
 {"sourceName":"🌸影视仓.在线更新🌸","sourceUrl":"https://700sjro44343.vicp.fun/vip/vip/duo.txt"},
 {"sourceName":"🌸小苹果🌸","sourceUrl":"http://tvbox.my"},
 
-{"sourceName":"💎惊.网选[推荐]💎","sourceUrl": "https://king1161.github.io/TV/仓源000.txt"},
+{"sourceName":"💎惊.github[推荐]💎","sourceUrl": "https://king1161.github.io/TV/仓源000.txt"},
+{"sourceName":"💎惊.neocities[推荐]💎","sourceUrl": "https://king1161.neocities.org/0/仓源000.txt"},
 {"sourceName":"💎惊.纯仓[备用]💎","sourceUrl":"https://king1161.github.io/TV/仓源111.txt"},
 {"sourceName":"💚惊.本地[备用]💚","sourceUrl": "clan://localhost/tvboxTW/本地仓.txt"},
 
 {"sourceName":"---↓.配置提示.↓---","sourceUrl":"http://z.qiqiv.cn/123"},
-{"sourceName":"1.先任选上面一个______---","sourceUrl":"http://150.158.112.123/dc.json"},
+{"sourceName":"1.先任选上面一个______---","sourceUrl":"http://xmbjm.fh4u.org/ck.txt"},
 {"sourceName":"2.再在【线路】里任选一个","sourceUrl":"http://w.nxog.top/nxog/ou1.php?url=http://w.nxog.top&xl=2&b=欧歌"},
 {"sourceName":"3.可在【主页】里切换站点","sourceUrl":"http://150.158.112.123/dc.json"},
 {"sourceName":"4.播放卡慢可换搜索源........","sourceUrl":"http://liucn.cc/box/d2.txt"},
