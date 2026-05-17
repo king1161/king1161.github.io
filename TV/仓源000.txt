@@ -8,24 +8,24 @@
 //------https://0a.fit/仓库K-----
 //------https://gg.gg/cangkuK-----
 {name:'🔔↓遇失效，请换线路↓🔔',url:'https://king1161.github.io/TV/备线.txt',time:'自建备用源'},
-{name:'💎【欧歌】[荐]💎',url:'http://tv.nxog.top/m'},
-{name:'💎【欧歌】[备]💎',url:'https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3'},
+{name:'💎【欧歌】[荐]',url:'http://tv.nxog.top/m'},
+{name:'💎【欧歌】[备]',url:'https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3'},
 
-{name:'💎【更新勤qist】[荐]💎',url:'https://raw.githubusercontent.com/qist/tvbox/master/jsm.json'},
-{name:'🏡【饭太硬qist】[荐]🏡',url:'https://qist.wyfc.qzz.io/fty.json'},
-{name:'🏡【饭太硬qist】[备]🏡',url:'https://raw.githubusercontent.com/qist/tvbox/master/fty.json'},
-{name:'🏡【潇洒qist】[荐]🏡',url:'https://qist.wyfc.qzz.io/xiaosa/api.json'},
+{name:'💎【更新勤qist】[荐]',url:'https://raw.githubusercontent.com/qist/tvbox/master/jsm.json'},
+{name:'💎【饭太硬qist】[荐]',url:'https://qist.wyfc.qzz.io/fty.json'},
+{name:'💎【饭太硬qist】[备]',url:'https://raw.githubusercontent.com/qist/tvbox/master/fty.json'},
+{name:'💎【潇洒qist】[荐]',url:'https://qist.wyfc.qzz.io/xiaosa/api.json'},
 
 {name:'💎【王二小】[主站]',url:'http://tvbox.王二小放牛娃.top'},
 {name:'💎【王二小】[主站2]',url:'http://tvbox.xn--4kq62z5rby2qupq9ub.top/'},
-{name:'🏡【王二小】[荐]',url:'https://9280.kstore.vip/newwex.json'},
-{name:'🏡【王二小】[备]',url:'http://tv.999888987.xyz'},
+{name:'💎【王二小】[备]',url:'https://9280.kstore.vip/newwex.json'},
+{name:'💎【王二小】[备2]',url:'http://tv.999888987.xyz'},
 
-{name:'💎【影视仓】[荐]💎',url:'http://影视仓.com/'},
-{name:'💎【驸马】[荐]💎',url:'http://fmys.top/fmys.json'},
-{name:'💎【荷城】[荐]💎',url:'https://gh.llkk.cc/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json'},
-{name:'💎【挺好.七星】[荐]💎',url:'http://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json'},
-{name:'💎【宝盒】[荐]💎',url:'http://宝盒接口.top'},
+{name:'💎【影视仓】[荐]',url:'http://影视仓.com/'},
+{name:'💎【驸马】[荐]',url:'http://fmys.top/fmys.json'},
+{name:'💎【挺好.七星.秒播】[荐]',url:'http://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json'},
+{name:'🏡【荷城】[荐]💎',url:'https://gh.llkk.cc/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json'},
+{name:'🏡【宝盒】[荐]💎',url:'http://宝盒接口.top'},
 {name:'🚀【饭太硬线路】[荐]💎',url:'http://www.饭太硬.com/tv'},
 {name:'🚀【肥猫】[荐]💎',url:'http://肥猫.com'},
 {name:'🚀【肥猫】[备]💎',url:'http://肥猫.live'},
@@ -36,7 +36,7 @@
 {name:'🤲【巧技线路】',url:'http://pandown.pro/tvbox/tvbox.json'},
 {name:'🤲【俊佬线路】',url:'http://home.jundie.top:81/top98.json'},
 {name:'🤲【香雅情-本地视频】',url:'https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json',time:''},
-{name:'🏡【运输车】',url:'https://weixine.net/ysc.json'},
+{name:'🚀【运输车】',url:'https://weixine.net/ysc.json'},
 
 //以下已停用(待修复)
 //{name:'🏡【欧歌app】[荐]🏡',url:'https://xn--anna-wn6lw489o.v.nxog.top/m'},
