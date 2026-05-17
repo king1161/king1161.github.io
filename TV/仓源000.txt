@@ -8,15 +8,26 @@
 //------https://0a.fit/仓库K-----
 //------https://gg.gg/cangkuK-----
 {name:'🔔↓遇失效，请换线路↓🔔',url:'https://king1161.github.io/TV/备线.txt',time:'自建备用源'},
-{name:'🏡【欧歌app】[荐]🏡',url:'https://xn--anna-wn6lw489o.v.nxog.top/m'},
-{name:'🏡【欧歌app2】[荐]🏡',url:'https://欧歌.v.nxog.top/m/'},
+{name:'🏡【欧歌】[荐]🏡',url:'http://tv.nxog.top/m'},
+{name:'🏡【欧歌】[备]🏡',url:'https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3'},
+
+{name:'🏡【更新勤qist】[荐]🏡',url:'https://raw.githubusercontent.com/qist/tvbox/master/jsm.json'},
+{name:'🏡【饭太硬线路】[荐qist]🏡',url:'https://qist.wyfc.qzz.io/fty.json'},
+{name:'🏡【饭太硬线路】[备qist]🏡',url:'https://raw.githubusercontent.com/qist/tvbox/master/fty.json'},
+{name:'🏡【潇洒】[荐qist]🏡',url:'https://qist.wyfc.qzz.io/xiaosa/api.json'},
+
+{name:'💎【王二小】[荐]',url:'https://9280.kstore.vip/newwex.json'},
+{name:'💎【王二小】[备]',url:'http://tv.999888987.xyz'},
+{name:'💎【王二小】[主站]',url:'http://tvbox.王二小放牛娃.top'},
+{name:'💎【王二小】[主站2]',url:'http://tvbox.xn--4kq62z5rby2qupq9ub.top/'},
+
+{name:'💎【影视仓】[荐]',url:'http://影视仓.com/'},
 {name:'🏡【天微影线】[荐]🏡',url:'https://7337.kstore.space/kjtv/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json'},
 {name:'🏡【宝盒】[荐]🏡',url:'http://宝盒接口.top'},
 {name:'💎【饭太硬线路】[荐]💎',url:'http://www.饭太硬.com/tv'},
 {name:'💎【肥猫】[荐]💎',url:'http://肥猫.com'},
 {name:'💎【肥猫】[备]💎',url:'http://肥猫.live'},
-{name:'💎【王二小】',url:'http://tvbox.王二小放牛娃.top'},
-{name:'💎【王二小】[备]',url:'http://tvbox.xn--4kq62z5rby2qupq9ub.top/'},
+
 {name:'💎【摸鱼儿】',url:'http://我不是.摸鱼儿.top'},
 {name:'💎【摸鱼儿.清清】',url:'http://清清.摸鱼儿.top'},
 {name:'💎【小盒子4K】',url:'http://xhztv.top/4k.json'},
@@ -28,6 +39,8 @@
 {name:'🏡【OK321.TV】[荐]🏡',url:'http://ok321.top/tv'},
 {name:'🏡【OK321.ok】[荐]🏡',url:'http://ok321.top/ok'},
 //以下已停用(待修复)
+//{name:'🏡【欧歌app】[荐]🏡',url:'https://xn--anna-wn6lw489o.v.nxog.top/m'},
+//{name:'🏡【欧歌app2】[荐]🏡',url:'https://欧歌.v.nxog.top/m/'},
 //{name:'💎【荷城茶秀】[荐]💎',url:'http://rihou.cc:88/荷城茶秀'},
 //{name:'✌️惊①网友源A[备]✌️',url:'https://gg.gg/TVboxWA',time:'引网友直源'},
 //{name:'✌️惊②网友源B[备]✌️',url:'https://gg.gg/TVboxWB',time:'引网友直源'},
@@ -37,7 +50,7 @@
 
 {name:'🔔如搜索不到或播放缓慢可换线路🔔',url:'_1',time:''},
 {name:'🔔以上线路会定期更新修复🔔',url:'_2',time:''},
-{name:'---github→2025.10.05---',url:'_3',time:''}
+{name:'---github→2026.05.17---',url:'_3',time:''}
 
         ]
 }
